@@ -10,13 +10,7 @@ import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyDswNmoqtGVmONjl3LQLqweLxXFGMGJooA",
-  authDomain: "letchat-a3b37.firebaseapp.com",
-  projectId: "letchat-a3b37",
-  storageBucket: "letchat-a3b37.appspot.com",
-  messagingSenderId: "1010783414167",
-  appId: "1:1010783414167:web:9c29098f08235dff6946d2",
-  measurementId: "G-T3B81PL679"
+// your console details
 })
 
 const auth = firebase.auth();
