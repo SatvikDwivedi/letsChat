@@ -1,0 +1,15 @@
+{
+  "short_name": "letsChat",
+  "name": "chatApp by Satvik",
+  "icons": [
+    {
+      "src": "chatLogo.png",
+      "sizes": "320 320",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
